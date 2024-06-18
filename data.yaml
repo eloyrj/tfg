@@ -1,0 +1,6 @@
+names:
+- drone
+nc: 1
+path: /Users/corte/Documents/GitHub/tfgProject/aircrafts_database
+train: /Users/corte/Documents/GitHub/tfgProject/aircrafts_database/train
+val: /Users/corte/Documents/GitHub/tfgProject/aircrafts_database/valid

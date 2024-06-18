@@ -1,0 +1,5 @@
+target_BSSID,channel,privacy,password,manufacturer,client_BSSID,timestamp,states
+,,,,,,2024/05/15-12:04:21,Error: No interface found
+,,,,,,2024/05/15-12:05:25,Error: No interface found
+,,,,,,2024/05/15-12:05:29,Error: No interface found
+,,,,,,2024/05/15-12:44:58,Error: No interface found
